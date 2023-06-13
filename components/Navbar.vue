@@ -22,7 +22,7 @@
                Операции
              </nuxt-link>
              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-               <li><nuxt-link class="dropdown-item" to="/sp_get_amcom">Информация по пропуску</nuxt-link></li>
+               <li><nuxt-link class="dropdown-item" to="/sales">Записи из Sales</nuxt-link></li>
                <li><nuxt-link class="dropdown-item" to="/sp_get_talon">Информация по питанию</nuxt-link></li>
                <li><hr class="dropdown-divider"></li>
                <li><nuxt-link class="dropdown-item" to="/sp_accept_amcom_pay">Запись продаж</nuxt-link></li>
